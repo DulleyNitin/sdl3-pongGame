@@ -1,0 +1,13 @@
+# compiled executable
+pong
+
+# object files (if compile with -c)
+*.o
+
+# optional build folder (future-proof)
+build/
+
+# common temp files
+*.out
+*.swp
+
